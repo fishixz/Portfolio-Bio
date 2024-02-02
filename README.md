@@ -5,9 +5,3 @@
 
 Decidir montar meu portfólio e disponibilizar o template para quem quiser utilizar. Fiquem a vontade para utilizar:
  - Site Template: [eucarlos.github.io](https://eucarlos.github.io/Projeto-Portfolio/)
- 
-### Linguagens usadas no projeto
-  
-HTML | CSS
-:---: | :---: |
-<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" width="80">|<img src="https://cdn.clipart.email/644c01230b320e0f2ee93a7b64e3c54e_css-3-logo-png-picture-364523-css-3-logo-png_1600-1600.png" width="80">|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="80">|
